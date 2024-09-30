@@ -113,4 +113,10 @@ td {
     table{
         max-width: 400px;
     }
+
+    @media(max-width: 368px){
+        table{
+            max-width: 300px;
+        }
+    }
 }
